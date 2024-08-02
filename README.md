@@ -1,5 +1,8 @@
 ![logo](https://github.com/NotAnyone07/NotAnyone07/blob/main/github-banner.jpg)
-<h1 align="center">Hi 👋, I'm Nabirah Siddiqui</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=4BD0DA&center=true&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Nabirah+Siddiqui;Aspiring+AI+enthusiast;A+graphic+designer+%26+a+video+editor" />
+</h1>
+
 <h3 align="center">Cambridge AS Level student and a student at GIAIC. Graphic Designer & Video Editor. Learning TypeScript, CSS, HTML, and Next.js.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
