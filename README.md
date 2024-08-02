@@ -37,7 +37,7 @@
      <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://github.com/NotAnyone07" target="_blank">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Not Anyone" height="30" width="40" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://skillicons.dev/icons?i=github" alt="Not Anyone" height="30" width="40" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
 
@@ -49,25 +49,16 @@
 <a href="https://discord.gg/Wm9fRQXJHX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Wm9fRQXJHX" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank" />
-  </a>
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs" /><br>
+</div>
+
+<br/>
+
+<h3 align="left">Graphic Software:</h3>
   <a href="https://www.adobe.com/products/photoshop.html#modal-hash" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank" />
   </a>
