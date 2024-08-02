@@ -25,8 +25,7 @@
   
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notanyone07&label=Profile%20views&color=0e75b6&style=flat" alt="notanyone07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notanyone07&label=Profile%20views&color=4bd0ce&style=flat" alt="notanyone07" /> </p>
 
 
 
@@ -77,12 +76,27 @@
   </a>
 
   </div>
-  
+
+  <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=NotAnyone07&theme=synthwave&card_width=467" alt="GitHub Streak"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=notanyone07&show_icons=true&locale=en&theme=synthwave" alt="notanyone07" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notanyone07&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="notanyone07" />
+</div>
+
+<br/><br/>
+
+<hr/>
 
 
+
+<!--<h2 align="center"> Statistics</h2>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NotAnyone07&theme=synthwave&card_width=390&card_height=300" alt="GitHub Streak" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notanyone07&show_icons=true&locale=en&layout=compact" alt="notanyone07" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notanyone07&show_icons=true&locale=en" alt="notanyone07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notanyone07&" alt="notanyone07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notanyone07&" alt="notanyone07" /></p>-->
 
