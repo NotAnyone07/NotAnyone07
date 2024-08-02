@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notanyone07&label=Profile%20views&color=0e75b6&style=flat" alt="notanyone07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notanyone07" alt="notanyone07" /></a> </p>
 
 - 🔭 I’m currently working on [As-Sayyiq](https://www.youtube.com/channel/UCtAe1XWhGgSbpGEl-I6ZeGg)
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **typescript,Css,HTML and Next Js**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/notanyone_07](https://linktr.ee/notanyone_07) | [https://github.com/NotAnyone07](https://github.com/NotAnyone07)
 
